@@ -2,23 +2,31 @@
 
 ## 1
 
-**file explorer is UI base that let us navigate and manage files through clicks and keys press but a terminal is a command base, which let us do that with commands.**
-**ls -la, mkdir project, cd project**
-**cd changes directory to the specific folder you mention in commands e.g: cd "C/users/downloads/assignment" and cd~ takes to the user home directory**
+**file explorer is UI base that let us navigate and manage files through clicks and keys press but a terminal is a command base, which let us do that with commands.**. 
+
+**ls -la, mkdir project, cd project**.  
+
+**cd changes directory to the specific folder you mention in commands e.g: cd "C/users/downloads/assignment" and cd~ takes to the user home directory**. 
+
 
 ## 2
 
-**version control help us to see track and review the changes. it help us in minimizing the errors that can be caused by overlaping when multiple peopple working on the same project files**
-**Git is a version control tool and github is a online hosting site. Yes Git can work without github (locally).it just need to connect with the other cloud servers storage providers if you are using cloud storage.**
+**version control help us to see track and review the changes. it help us in minimizing the errors that can be caused by overlaping when multiple peopple working on the same project files**. 
+
+**Git is a version control tool and github is a online hosting site. Yes Git can work without github (locally).it just need to connect with the other cloud servers storage providers if you are using cloud storage.**. 
+
 **pull requests/merge requests
 automating tasks eg: conflicts resolve
-tracking and project management**
-**a repo is a project file containing its data, a remote repo is that resides remotely on a cloud server such as github and others can also access it while local one is in your own computer or personal server**
+tracking and project management**. 
+
+**a repo is a project file containing its data, a remote repo is that resides remotely on a cloud server such as github and others can also access it while local one is in your own computer or personal server**. 
+
 
 ## 3
 
-**its a reference that points towards the current branch. when we switch branches head moves to he selected branch**
-**A .gitignore is a file which tells git to not track it for version control. git will ignore this file.**
+**its a reference that points towards the current branch. when we switch branches head moves to he selected branch**. 
+
+**A .gitignore is a file which tells git to not track it for version control. git will ignore this file.**. 
 
 # Part 2
 ## explain: Why did we commit A+B separately from C? When would you want to split commits this way?
